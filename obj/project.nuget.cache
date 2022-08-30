@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcwEk08HHgGernvIfF5vcFgv+ZRW7F94Vv76y5nV1UksPqdOi3xrFRO6f2/VYqUeBw6gJD2gIXWbRgZ6ji+d4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor_castelo\\source\\repos\\TattoArtAPI\\TattoArtAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
