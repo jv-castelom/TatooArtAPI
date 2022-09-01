@@ -1,0 +1,15 @@
+C:\Users\victor_castelo\source\repos\TatooArt.Data\bin\Debug\net6.0\TatooArt.Data.deps.json
+C:\Users\victor_castelo\source\repos\TatooArt.Data\bin\Debug\net6.0\TatooArt.Data.dll
+C:\Users\victor_castelo\source\repos\TatooArt.Data\bin\Debug\net6.0\TatooArt.Data.pdb
+C:\Users\victor_castelo\source\repos\TatooArt.Data\bin\Debug\net6.0\TatooArt.Model.dll
+C:\Users\victor_castelo\source\repos\TatooArt.Data\bin\Debug\net6.0\TatooArt.Model.pdb
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.csproj.AssemblyReference.cache
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.AssemblyInfoInputs.cache
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.AssemblyInfo.cs
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.csproj.CoreCompileInputs.cache
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.csproj.CopyComplete
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.dll
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\refint\TatooArt.Data.dll
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\TatooArt.Data.pdb
+C:\Users\victor_castelo\source\repos\TatooArt.Data\obj\Debug\net6.0\ref\TatooArt.Data.dll

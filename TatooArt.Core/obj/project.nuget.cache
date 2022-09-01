@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1j8nfwRqQoD0cyCZ+4Z3hwrB9J8+gN4e20Ey+oL7tV+J45rBEUioxpRti4DojWw+4ozM+JEpdQQ/r5rqiDPiIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor_castelo\\source\\repos\\TatooArt.Core\\TatooArt.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor_castelo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
